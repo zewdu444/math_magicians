@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <h3><b>Leaderboard</b></h3>
+  <h3><b>Math magicians</b></h3>
 
 </div>
 
@@ -52,32 +52,29 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Leaderboard <a name="about-project"></a>
+# 📖 Math Magicians <a name="about-project"></a>
 
-<p> This repository a leaderboard website displays scores submitted by different players. It also allows to add score and data were preserved data external API.</p>
+<p> This project is a single-page application that uses the React framework to perform a simple basic calculator. It is a part of the Microverse React module.</p>
 
 ## 🛠 Built With <a name="built-with"> </a>
 
-> HTML 5 , css3, javascript ES6, NPM, webpack And and Tailwind
+> HTML 5 , css3, javascript ES6, and React
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML 5 , css3, javascript ES6, NPM, webpack And and Tailwind
+> React, webpack And babel
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
- <li>Display score</li>
- <li>Submit score</li>
- <li>Refresh sore </li>
- <li>Beautiful layout </li>
+ <li>Setup react project folder</li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p><!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> https://zewdu444.github.io/Leaderboard/
+>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,15 +84,14 @@ After you're finished please remove all the comments and instructions!
 
 to run on your localhost clone the project to local folder
 
-> <p>cd Leaderboard</p>
+> <p>cd Math_magicians</p>
 > <p>npm i</p>
-> <p> npm run server<p>
-> <p> open your brower locate to localhost:3000</p>
+> <p> npm start<p>
 
 ### Setup
 
-> <p> git clone https://github.com/zewdu444/Leaderboard.git</p>
-> cd Leaderboard
+> <p> git clone https://github.com/zewdu444/math_magicians.git</p>
+> cd math_magicians
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +113,7 @@ To install this project in your local machine use
 
 To run the project, execute the following command:
 
-> In visual studio code Go to dist folder then open index.html in live server.
+> In visual studio code open terminal then write "npm start" after on your browser open "http://localhost:3000".
 
 <!-- AUTHORS -->
 
@@ -133,13 +129,13 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Responsive for all screen size
+> Add Components.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zewdu444/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/zewdu444/math_magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SUPPORT -->
