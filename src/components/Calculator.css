@@ -2,6 +2,12 @@
   box-sizing: border-box;
 }
 
+.calulator {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .calc-button-holder {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

@@ -11,7 +11,7 @@ export default class Calculator extends Component {
     return (
       <div className="container">
         <section className="calulator">
-          <input type="text" className="number-input" value="0" />
+          <input type="text" className="number-input" defaultValue="0" />
           <div className="calc-button-holder">
             <button type="button" className="calc-button">AC</button>
             <button type="button" className="calc-button">+/-</button>
