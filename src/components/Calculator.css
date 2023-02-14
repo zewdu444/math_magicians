@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.calc-button-holder {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 0;
+}
+
+.number-input {
+  background-color: #858693;
+  color: white;
+  font-size: 2em;
+  border: 0;
+  padding: 0.3em;
+  text-align: right;
+  width: 100%;
+  height: 5rem;
+}
+
+.calc-button {
+  font-size: 1em;
+  height: 4.375rem;
+  border: 1px solid rgb(201, 201, 201);
+  font-weight: 600;
+}
+
+.calc-button:hover {
+  background: #fff;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.span-2 {
+  grid-column: span 2;
+}
