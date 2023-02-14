@@ -63,6 +63,7 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 > React, webpack And babel
+> Calculator layout
 
 <!-- Features -->
 
@@ -129,7 +130,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Add Components.
+> Add events
 
 ## 🤝 Contributing <a name="contributing"></a>
 
