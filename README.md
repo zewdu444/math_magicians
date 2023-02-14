@@ -42,6 +42,8 @@
 ### Key Features <a name="key-features"></a>
 
  <li>Setup react project folder</li>
+  <li>Calculator Layout</li>
+  <li>Basic functionality</li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p><!-- LIVE DEMO -->
 
@@ -96,7 +98,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Add events
+> Use function based component
 
 ## 🤝 Contributing <a name="contributing"></a>
 
