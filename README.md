@@ -1,34 +1,10 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <h3><b>Math magicians</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -50,8 +26,6 @@ After you're finished please remove all the comments and instructions!
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 Math Magicians <a name="about-project"></a>
 
 <p> This project is a single-page application that uses the React framework to perform a simple basic calculator. It is a part of the Microverse React module.</p>
@@ -63,8 +37,7 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 > React, webpack And babel
-
-<!-- Features -->
+> Calculator layout
 
 ### Key Features <a name="key-features"></a>
 
@@ -77,8 +50,6 @@ After you're finished please remove all the comments and instructions!
 >
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -115,8 +86,6 @@ To run the project, execute the following command:
 
 > In visual studio code open terminal then write "npm start" after on your browser open "http://localhost:3000".
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **zewdu erkyhun**
@@ -125,11 +94,9 @@ To run the project, execute the following command:
 - Twitter: [@zewdu444](https://twitter.com/zewdu444)
 - LinkedIn: [zewdu-erkyhun](https://www.linkedin.com/in/zewdu-erkyhun-081378b3/)
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Add Components.
+> Add events
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -138,7 +105,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/zewdu444/math_magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -146,15 +112,11 @@ Feel free to check the [issues page](https://github.com/zewdu444/math_magicians/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank Microverse team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
