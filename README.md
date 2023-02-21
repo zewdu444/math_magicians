@@ -43,7 +43,7 @@
  <li>Setup react project folder</li>
   <li>Calculator Layout</li>
   <li>Basic functionality</li>
-
+   <li>Navigation add for home, calcualtor and about page</li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p><!-- LIVE DEMO -->
 
@@ -98,7 +98,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Add router for navigation
+> Add Test functionalites
 
 ## 🤝 Contributing <a name="contributing"></a>
 
