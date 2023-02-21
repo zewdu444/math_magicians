@@ -3,9 +3,8 @@
 }
 
 .calulator {
-  width: 40%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 80%;
+  margin-top: 30px;
 }
 
 .calc-button-holder {
@@ -30,6 +29,11 @@
   height: 4.375rem;
   border: 1px solid rgb(201, 201, 201);
   font-weight: 600;
+  cursor: pointer;
+}
+
+button:focus {
+  background-color: #efefef;
 }
 
 .calc-button:hover {
@@ -40,6 +44,57 @@
   background-color: orange;
 }
 
+.orange:hover {
+  background: rgb(255, 205, 111);
+}
+
 .span-2 {
   grid-column: span 2;
+}
+
+.calc_cardone {
+  margin-right: 0;
+  border: 2px solid black;
+}
+
+.grid_container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.col-one {
+  margin-left: 30px;
+  margin-right: 0;
+  margin-top: 10px;
+}
+
+.col-two {
+  padding-left: 20%;
+}
+
+@media (max-width: 750px) {
+  .grid_container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .col-one {
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .col-two {
+    width: 100%;
+    display: flex;
+    padding-left: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .calulator {
+    width: 80%;
+    margin-top: 30px;
+    padding-left: 20%;
+  }
 }
